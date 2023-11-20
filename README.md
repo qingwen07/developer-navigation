@@ -22,6 +22,9 @@
 4. aiweaver，网址：[https://aiweaver.feishu.cn/wiki/Nr20wfev0iH9oWkhxkVcFhQsn7g](https://aiweaver.feishu.cn/wiki/Nr20wfev0iH9oWkhxkVcFhQsn7g)  特点：分类比较好，还有其它的AI资源。 收录大概155个GPTs
 5. allgpts，网址：[https://allgpts.co](https://allgpts.co)  特点：有分类，可搜索。 目前收录了82个GPTs
 
+# 编码人生
+1. **免费学习编程网站** Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including: Apple, Google, Microsoft, Spotify, amazon.com  <https://www.freecodecamp.org/>
+
 # 最全书籍下载资源
 1. **安娜的档案** <https://zh.annas-archive.org/>，人类历史上最大的完全开放的图书馆。 ⭐️ 不仅是 Sci-Hub, LibGen, Z-Lib 的镜像。📈 25,077,770 本图书、99,425,873 篇论文——永久保存。
 2. **无名图书** <https://www.book123.info/>, 带分类浏览，完全免费下载，可以按书名、作者、ISBN搜索，完全无套路。
