@@ -33,3 +33,7 @@
 
 # 支持
 感谢您的慷慨捐赠，您的支持对我们来说意义重大，这会是我们持续输出优质内容的最强动力。
+
+<img src='https://github.com/qingwen07/developer-navigation/blob/main/%E5%BE%AE%E4%BF%A1.png' width="400">
+<img src='https://github.com/qingwen07/developer-navigation/blob/main/%E6%94%AF%E4%BB%98%E5%AE%9D.jpeg' width="400">
+
