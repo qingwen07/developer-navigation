@@ -9,10 +9,9 @@
 
 
 # 史上最牛开源项目
-1. **抠图工具**,基于Webgpu技术和wasm技术的免费开源inpainting工具, 纯浏览器端实现，[传送门](https://github.com/lxfater/inpaint-web/tree/main)
-2. 开源GPTs导航项目**gpts-works**，这份代码不是静态导航页面，而是动态的，直接从数据库获取数据的，也就是说其实你不仅仅可以用于做 GPTs 导航，你可以用来做通用导航站，[传送门](https://github.com/all-in-aigc/gpts-works)
-3. **Public APIs**,搜集了软件行业各种各样免费公开的 API，各种类型分类，特别多特别全，感觉有好几百，非常值得收藏，Stars 是惊人的 262K！非常多小众的 API 都让我看呆了，比如说动物图片 API…，[传送门](https://github.com/public-apis/public-apis)
-4. 
+1. **抠图工具**,基于Webgpu技术和wasm技术的免费开源inpainting工具, 纯浏览器端实现，<https://github.com/lxfater/inpaint-web/tree/main>
+2. 开源GPTs导航项目**gpts-works**，这份代码不是静态导航页面，而是动态的，直接从数据库获取数据的，也就是说其实你不仅仅可以用于做 GPTs 导航，你可以用来做通用导航站<https://github.com/all-in-aigc/gpts-works>
+3. **Public APIs**,搜集了软件行业各种各样免费公开的 API，各种类型分类，特别多特别全，感觉有好几百，非常值得收藏，Stars 是惊人的 262K！非常多小众的 API 都让我看呆了，比如说动物图片 API…，<https://github.com/public-apis/public-apis>
 
 
 # GPTs大全
