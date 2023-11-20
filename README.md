@@ -1,9 +1,10 @@
 # developer-navigation
 记录开发者常用工具信息，包含不限于技术及生活
 
-# 史上最牛AI工具
+# AI相关
 1. **最懂程序员的新一代AI搜索引擎** <https://devv.ai/>
 2. **按需生成演示文稿**，[https://www.decktopus.com/](https://www.decktopus.com/)
+3. **OpenAl：GPT最佳实践(大白话编译解读版)**，强烈建议大家通读和收藏这份GPT官方教程解读文档：《OpenAl：GPT最佳实践(大白话编译解读版)》可以说是网络中最好的中文解读版本，语言风格直白且补充了各种实用案例。总结就是：排版精美、通俗易懂、教程全面、示例丰富、看了就会！<https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf>
 
 
 
