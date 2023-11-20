@@ -25,8 +25,9 @@
 # 编码人生
 1. **免费学习编程网站** Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including: Apple, Google, Microsoft, Spotify, amazon.com  <https://www.freecodecamp.org/>
 
-# 牛人家园
+# 在线开源书籍
 1. **李笑来作品集** <https://lixiaolai.com/#/>
+2. **Hello算法** <https://www.hello-algo.com/>
 
 # 最全书籍下载资源
 1. **安娜的档案** <https://zh.annas-archive.org/>，人类历史上最大的完全开放的图书馆。 ⭐️ 不仅是 Sci-Hub, LibGen, Z-Lib 的镜像。📈 25,077,770 本图书、99,425,873 篇论文——永久保存。
