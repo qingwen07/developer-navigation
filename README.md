@@ -12,6 +12,7 @@
 1. **抠图工具**,基于Webgpu技术和wasm技术的免费开源inpainting工具, 纯浏览器端实现，<https://github.com/lxfater/inpaint-web/tree/main>
 2. 开源GPTs导航项目**gpts-works**，这份代码不是静态导航页面，而是动态的，直接从数据库获取数据的，也就是说其实你不仅仅可以用于做 GPTs 导航，你可以用来做通用导航站<https://github.com/all-in-aigc/gpts-works>
 3. **Public APIs**,搜集了软件行业各种各样免费公开的 API，各种类型分类，特别多特别全，感觉有好几百，非常值得收藏，Stars 是惊人的 262K！非常多小众的 API 都让我看呆了，比如说动物图片 API…，<https://github.com/public-apis/public-apis>
+4. **talk**，开源的基于WebRTC的点对点的群组视频通话应用，这是一款免费开源的p2p群组视频通话应用，不需要注册，也没有下载。适用于所有主流浏览器。 Talk是使用WebRTC构建的，因此所有的视频，音频和文字聊天都是点对点的。采用WebRTC网格实现群组视频通话。所以通话质量与通话人数在平均高速连接中大约是6到8人。<https://github.com/vasanthv/talk>
 
 
 # GPTs大全
