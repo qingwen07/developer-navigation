@@ -22,6 +22,10 @@
 4. aiweaver，网址：[https://aiweaver.feishu.cn/wiki/Nr20wfev0iH9oWkhxkVcFhQsn7g](https://aiweaver.feishu.cn/wiki/Nr20wfev0iH9oWkhxkVcFhQsn7g)  特点：分类比较好，还有其它的AI资源。 收录大概155个GPTs
 5. allgpts，网址：[https://allgpts.co](https://allgpts.co)  特点：有分类，可搜索。 目前收录了82个GPTs
 
+# 最全书籍下载资源
+1. **安娜的档案** <https://zh.annas-archive.org/>，人类历史上最大的完全开放的图书馆。 ⭐️ 不仅是 Sci-Hub, LibGen, Z-Lib 的镜像。📈 25,077,770 本图书、99,425,873 篇论文——永久保存。
+2. **无名图书** <https://www.book123.info/>, 带分类浏览，完全免费下载，可以按书名、作者、ISBN搜索，完全无套路。
+
 # 健康生活
 1. **默沙东诊疗手册**，没事少百度，这么说吧凡是网络那些问诊我直接贴手册里的方案应该可以超过一半的医师，很贴心还分个人版、医师版，不像你们互联网为了收钱，人家细分是为了让你看懂，全免费的，别多说，你先收藏，多看看这样跟医师沟通也效率更高些，[传送门](https://www.msdmanuals.cn/home)
 2. 
