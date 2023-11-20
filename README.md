@@ -2,7 +2,7 @@
 记录开发者常用工具信息，包含不限于技术及生活
 
 # 史上最牛AI工具
-1. [最懂程序员的新一代AI搜索引擎](https://devv.ai/)
+1. **最懂程序员的新一代AI搜索引擎** <https://devv.ai/>
 2. **按需生成演示文稿**，[https://www.decktopus.com/](https://www.decktopus.com/)
 
 
