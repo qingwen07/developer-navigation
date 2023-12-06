@@ -6,7 +6,7 @@
 2. **按需生成演示文稿**，[https://www.decktopus.com/](https://www.decktopus.com/)
 3. **OpenAl：GPT最佳实践(大白话编译解读版)**，强烈建议大家通读和收藏这份GPT官方教程解读文档：《OpenAl：GPT最佳实践(大白话编译解读版)》可以说是网络中最好的中文解读版本，语言风格直白且补充了各种实用案例。总结就是：排版精美、通俗易懂、教程全面、示例丰富、看了就会！<https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf>
 4. **Vispunk Video** 是一款极简、强大的免费 AI 视频制作工具,<https://vispunk.com/>
-
+5. **免费生成图片** [Playground AI](https://playground.com/)每天可以免费生成高达1000张图像，并提供免费的图像放大、去除背景和修复功能,类似的AI工具还有：Starry AI、Diffusion Art
 
 
 # 史上最牛开源项目
