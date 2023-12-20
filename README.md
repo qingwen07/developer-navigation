@@ -27,6 +27,8 @@
 # 编码人生
 1. **免费学习编程网站** Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including: Apple, Google, Microsoft, Spotify, amazon.com  <https://www.freecodecamp.org/>
 
+# 免费资源
+1. **精彩的免版税图片和免版税库存** <https://pixabay.com/zh/>
 
 # 在线开源书籍
 1. **李笑来作品集** <https://lixiaolai.com/#/>
