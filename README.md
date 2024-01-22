@@ -33,6 +33,7 @@
 # 在线开源书籍
 1. **李笑来作品集** <https://lixiaolai.com/#/>
 2. **Hello算法** <https://www.hello-algo.com/>
+3. **程序员开源书籍** <https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md>
 
 # 最全书籍下载资源
 1. **安娜的档案** <https://zh.annas-archive.org/>，人类历史上最大的完全开放的图书馆。 ⭐️ 不仅是 Sci-Hub, LibGen, Z-Lib 的镜像。📈 25,077,770 本图书、99,425,873 篇论文——永久保存。
